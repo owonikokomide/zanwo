@@ -6,7 +6,7 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-.all-div{
+.all-div{ 
   display: flex;
   gap: 0.5rem;
 }
